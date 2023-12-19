@@ -12,7 +12,7 @@ body {
 header {
   align-items: center;
 }
-.main {
+main {
   display: flex;
   align-items: center;
   flex-dircetion: column;
